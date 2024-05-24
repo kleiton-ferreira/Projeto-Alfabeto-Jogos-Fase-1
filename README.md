@@ -11,7 +11,7 @@ Este é um projeto inicial de um site para ensinar o alfabeto e a formação de 
 
 Linguagens e Tecnologias Utilizadas:
 
-    HTML e CSS
+    HTML e CSS (Fase 1)
     GitHub para controle de versionamento do código-fonte.
 
 Instruções de Uso:
